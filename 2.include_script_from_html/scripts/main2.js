@@ -1,0 +1,1 @@
+export const myVariable = 'I am Scizen';
